@@ -1,10 +1,10 @@
 {
    "userData": [
         {"id": 1, "name": "Alexander", "message": "Когда на бокс?",  "avatar": "box"},
-        {"id": 2, "name": "Ilona", "message": "люблю тебя, уебок)))",  "avatar": "ilona"},
+        {"id": 2, "name": "Ilona", "message": "люблю тебя!",  "avatar": "ilona"},
         {"id": 3, "name": "Olga", "message": "как дела, сынок?",  "avatar": "mama"},
         {"id": 4, "name": "Nikita", "message": "Секрет женского оргазма - заусенец на пальце! Гоги доу - 1351 до н.э.",  "avatar": "nikita"},
         {"id": 5, "name": "Alexander", "message": "Когда на бокс?",  "avatar": "box"},
-        {"id": 6, "name": "Dasha", "message": "сошлась с Юликом",  "avatar": "dasha"},
+        {"id": 6, "name": "Dasha", "message": "сошлась с Юликом",  "avatar": "dasha"}
     ]
 }
